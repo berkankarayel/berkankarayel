@@ -1,8 +1,8 @@
- [![MasterHead](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png)
+
 <h1 align="center">Hi 👋, I'm BERKAN KARAYEL</h1>
 <h3 align="center">FULL stack developer in Turkey</h3>
 
-- 🌱 I’m currently learning **asp.net**
+- 🌱 I’m currently learning **React and Node.js**
 
 - 📫 How to reach me **berkankarayel147@gmail.com**
 
