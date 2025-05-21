@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Berkan Karayel</h1>
 <h3 align="center">I am full stack developer in Turkey</h3>
 
-- 🌱 I’m currently learning **ASP.NET CORE and React**
+- 🌱 I’m currently learning **ASP.NET CORE - Angular- PostreSql**
 
 - 📫 How to reach me **berkankarayel.147@gmail.com**
 
