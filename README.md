@@ -11,7 +11,7 @@ I love learning new technologies, improving existing skills, and turning ideas i
 ---
 
 ### 🌱 I’m currently learning
-- **ASP.NET Core 9**
+- **ASP.NET Core **
 - **Angular**
 - **PostgreSQL**
 - **Docker & CI/CD**
