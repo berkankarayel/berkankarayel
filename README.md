@@ -7,6 +7,9 @@
 I am a passionate full stack developer focused on building modern and scalable web applications.  I am improving myself in **ASP.NET Core**, **Angular**, and **clean architecture** while continuously creating real-world projects.  
 I love learning new technologies, improving existing skills, and turning ideas into working products.
 
+  ## 📎 Canlı Site  
+Portfolyo sitemi burada görebilirsiniz: [berkan-portfolyo](https://berkan-portfolio.netlify.app/)
+
 ---
 
 ### 🌱 I’m currently learning
