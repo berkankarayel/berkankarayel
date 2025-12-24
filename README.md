@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Berkan Karayel</h1>
-<h3 align="center">Full Stack .NET & Angular Developer from Turkey</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
 ### 🌟 About Me
-I am a passionate full stack developer focused on building modern and scalable web applications.  I am improving myself in **ASP.NET Core**, **Angular**, and **clean architecture** while continuously creating real-world projects.  
-I love learning new technologies, improving existing skills, and turning ideas into working products.
+I am a passionate full-stack developer focused on building modern, scalable, and production-ready web applications.
+I actively work with ASP.NET Core, React, Docker, and Clean Architecture, and I have hands-on experience with MSSQL and PostgreSQL in real-world projects.
+I enjoy designing maintainable backend systems, integrating modern frontend solutions, and applying CI/CD and containerization practices to deliver reliable software.
 
-  ## 📎 Canlı Site  
-Portfolyo sitemi burada görebilirsiniz: [berkan-portfolyo](https://berkan-portfolio.netlify.app/)
+ ## 📎 Live Portfolio  
+Visit my portfolio website: [berkan-portfolio](https://berkan-portfolio.netlify.app/)
+
 
 ---
 
-### 🌱 I’m currently learning
-- **ASP.NET Core **
-- **Angular**
-- **PostgreSQL**
-- **Docker & CI/CD**
-- **Clean Architecture & Software Design**
+### 🧠 Technologies & Development Experience
+- **ASP.NET Core (.NET 8)**
+- **React, JavaScript (ES6+), Angular**
+- **MSSQL & PostgreSQL**
+- **Docker, Docker Compose & CI/CD**
+- **Clean Architecture, Design Patterns**
 
 ---
 
@@ -59,6 +61,10 @@ Portfolyo sitemi burada görebilirsiniz: [berkan-portfolyo](https://berkan-portf
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+</a>
+
 </p>
 
 ---
